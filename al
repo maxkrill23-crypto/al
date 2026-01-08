@@ -2625,3 +2625,11 @@ http://video2.tizam.cc/files/2234711/film_internet_znakomstva.mp4
 #EXTGRP:Видео 18+
 http://video2.tizam.cc/files/2234710/film_bulki._vvedenie.mp4
 #EXTINF:0,Королевская шлюха / La Putain du Roi 
+#EXTGRP:7. Kids/Детские
+http://6.tvtm.one/ch3775/mono.m3u8?token=shapiro77.v2_tLG8wkz30A9ZnXPNodJCsFxqmMiKfnkij3TbljFxh32DD84BVJSW5Na7uX15uqMTVu2sWmbQoJE4QhI
+#EXTINF:0 tvg-id="ch3778" tvg-name="TVPlay Леди Баг и Супер Кот HD" tvg-logo="http://tvtm.one/images/chIcons/3778.png" group-title="7. Kids/Детские"  timeshift="3", TVPlay Леди Баг и Супер Кот HD
+#EXTGRP:7. Kids/Детские
+http://6.tvtm.one/ch3778/mono.m3u8?token=shapiro77.v2_RMba5UntBxvgKY6iS1RhhARQTeJ3AVcOcfEjNtEJKh-dWKmX_TJ9KTqDKHcfDGLNZ7JYXM8rJoHJ0qw
+#EXTINF:0 tvg-id="ch3815" tvg-name="TVPlay Микки Маус HD" tvg-logo="http://tvtm.one/images/chIcons/3815.png" group-title="7. Kids/Детские"  timeshift="3", TVPlay Микки Маус HD
+#EXTGRP:7. Kids/Детские
+http://6.tvtm.one/ch3815/mono.m3u8?token=shapiro77.v2_lJYjdFzSc1qD4cOCq0Qu87e9TUdDMzrXvOqI0yZOSfOX_6KBNqcSwJGCYXObaDK6LzAC2Li32ksZ_mE
